@@ -1,0 +1,68 @@
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\bin\Debug\net8.0\Database.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\bin\Debug\net8.0\Database.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Repository\obj\Debug\net8.0\ref\Repository.dll

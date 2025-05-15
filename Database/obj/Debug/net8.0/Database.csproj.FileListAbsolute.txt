@@ -1,0 +1,60 @@
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\bin\Debug\net8.0\Database.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\bin\Debug\net8.0\Domain.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\bin\Debug\net8.0\Domain.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.csproj.Up2Date
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Database\obj\Debug\net8.0\ref\Database.dll

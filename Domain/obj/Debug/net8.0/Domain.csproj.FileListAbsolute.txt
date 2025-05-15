@@ -1,0 +1,44 @@
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\Domain\obj\Debug\net8.0\ref\Domain.dll

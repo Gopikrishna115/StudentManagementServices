@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentservices\\service contracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|solutionrelative:studentservices\\service contracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentservices\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|solutionrelative:studentservices\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43E9A0-5377-4D22-943E-5DFB6CDDF554}|Domain\\Domain.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43E9A0-5377-4D22-943E-5DFB6CDDF554}|Domain\\Domain.csproj|solutionrelative:domain\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43E9A0-5377-4D22-943E-5DFB6CDDF554}|Domain\\Domain.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\domain\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43E9A0-5377-4D22-943E-5DFB6CDDF554}|Domain\\Domain.csproj|solutionrelative:domain\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentservices\\service contracts\\dictonary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|solutionrelative:studentservices\\service contracts\\dictonary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CC11D8-EEC0-40BF-A1B7-5D0BE081ED6B}|Database\\Database.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CC11D8-EEC0-40BF-A1B7-5D0BE081ED6B}|Database\\Database.csproj|solutionrelative:database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CC11D8-EEC0-40BF-A1B7-5D0BE081ED6B}|Database\\Database.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\database\\service contracts\\idatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CC11D8-EEC0-40BF-A1B7-5D0BE081ED6B}|Database\\Database.csproj|solutionrelative:database\\service contracts\\idatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CC11D8-EEC0-40BF-A1B7-5D0BE081ED6B}|Database\\Database.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\database\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CC11D8-EEC0-40BF-A1B7-5D0BE081ED6B}|Database\\Database.csproj|solutionrelative:database\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|solutionrelative:repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|solutionrelative:repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\repository\\servicecontract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|solutionrelative:repository\\servicecontract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentservices\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|solutionrelative:studentservices\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentservices\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|solutionrelative:studentservices\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD581194-C025-4026-8720-3466FF7D6781}|Repository\\Repository.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentservices\\studentservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|solutionrelative:studentservices\\studentservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentmanagementservices\\studentmanagementservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C8BF155B-4232-489F-B88B-F7DE17AE6837}|StudentManagementServices\\StudentManagementServices.csproj|solutionrelative:studentmanagementservices\\studentmanagementservices.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\studentservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC76DD-BDBA-42AF-B347-0717BADB9B16}|StudentServices\\StudentServices.csproj|solutionrelative:studentservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43E9A0-5377-4D22-943E-5DFB6CDDF554}|Domain\\Domain.csproj|c:\\users\\jahnavip\\desktop\\angular\\studentmanagementservices\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF43E9A0-5377-4D22-943E-5DFB6CDDF554}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 182,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dictonary.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\Service Contracts\\Dictonary.cs",
+              "RelativeDocumentMoniker": "StudentServices\\Service Contracts\\Dictonary.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\Service Contracts\\Dictonary.cs",
+              "RelativeToolTip": "StudentServices\\Service Contracts\\Dictonary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:49:05.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Domain\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Domain\\Model\\User.cs",
+              "RelativeToolTip": "Domain\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:38:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\Service Contracts\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentServices\\Service Contracts\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\Service Contracts\\IStudentService.cs",
+              "RelativeToolTip": "StudentServices\\Service Contracts\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:30:59.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Domain\\Model\\Models.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Models.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Domain\\Model\\Models.cs",
+              "RelativeToolTip": "Domain\\Model\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:35:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementServices\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementServices\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:05:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "Database\\DatabaseContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwE0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:47:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentServices\\StudentService.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\StudentService.cs",
+              "RelativeToolTip": "StudentServices\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:12:15.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Database\\Service Contracts\\IDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Database\\Service Contracts\\IDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Database\\Service Contracts\\IDatabaseContext.cs",
+              "RelativeToolTip": "Database\\Service Contracts\\IDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:47:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Database\\Student.cs",
+              "RelativeDocumentMoniker": "Database\\Student.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Database\\Student.cs",
+              "RelativeToolTip": "Database\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T05:46:53.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentManagementServices\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "StudentManagementServices\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:40:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementServices\\Program.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Program.cs",
+              "RelativeToolTip": "StudentManagementServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:15:25.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\appsettings.json",
+              "RelativeToolTip": "StudentManagementServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T17:17:22.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "Repository\\LoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:38:57.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StudentManagementServices\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StudentManagementServices\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:39:50.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA0wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:47:46.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StudentManagementServices\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\appsettings.Development.json",
+              "RelativeToolTip": "StudentManagementServices\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T08:59:51.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "Repository\\TeacherRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:58:49.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\Servicecontract\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Servicecontract\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\Servicecontract\\IStudentRepository.cs",
+              "RelativeToolTip": "Repository\\Servicecontract\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:49:25.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\TeacherService.cs",
+              "RelativeDocumentMoniker": "StudentServices\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\TeacherService.cs",
+              "RelativeToolTip": "StudentServices\\TeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:02:06.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\CourseService.cs",
+              "RelativeDocumentMoniker": "StudentServices\\CourseService.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\CourseService.cs",
+              "RelativeToolTip": "StudentServices\\CourseService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:39:32.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "StudentManagementServices\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "StudentManagementServices\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T10:04:04.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "Repository\\CourseRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:38:08.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\UserService.cs",
+              "RelativeDocumentMoniker": "StudentServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\UserService.cs",
+              "RelativeToolTip": "StudentServices\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:39:22.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentManagementServices.http",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\StudentManagementServices.http",
+              "RelativeDocumentMoniker": "StudentManagementServices\\StudentManagementServices.http",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentManagementServices\\StudentManagementServices.http",
+              "RelativeToolTip": "StudentManagementServices\\StudentManagementServices.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-20T09:27:42.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T10:57:40.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentServices.csproj",
+              "DocumentMoniker": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\StudentServices.csproj",
+              "RelativeDocumentMoniker": "StudentServices\\StudentServices.csproj",
+              "ToolTip": "C:\\Users\\jahnavip\\Desktop\\angular\\StudentManagementServices\\StudentServices\\StudentServices.csproj",
+              "RelativeToolTip": "StudentServices\\StudentServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T09:42:13.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

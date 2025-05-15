@@ -1,0 +1,188 @@
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.staticwebassets.endpoints.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.exe
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.deps.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.runtimeconfig.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.AssemblyReference.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfoInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfo.cs
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\scopedcss\bundle\StudentManagementServices.styles.css
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementServices.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentManagementServices.props
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagementServices.props
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentManagementServices.props
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentM.E0B56B0F.Up2Date
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\refint\StudentManagementServices.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.genruntimeconfig.cache
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\ref\StudentManagementServices.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Npgsql.dll
+C:\Users\jahnavip\source\repos\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.AssemblyReference.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfoInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfo.cs
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.CoreCompileInputs.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\refint\StudentManagementServices.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.exe
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.deps.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.runtimeconfig.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Npgsql.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.dll
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.pdb
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentManagementServices.props
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagementServices.props
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentManagementServices.props
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\scopedcss\bundle\StudentManagementServices.styles.css
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentM.E0B56B0F.Up2Date
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.genruntimeconfig.cache
+C:\Users\laksh\Downloads\Dotnet files\Dotnet files\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\ref\StudentManagementServices.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.staticwebassets.endpoints.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.exe
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.deps.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.runtimeconfig.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Npgsql.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.AssemblyReference.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfo.cs
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\scopedcss\bundle\StudentManagementServices.styles.css
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementServices.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentManagementServices.props
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagementServices.props
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentManagementServices.props
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentM.E0B56B0F.Up2Date
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\refint\StudentManagementServices.dll
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.genruntimeconfig.cache
+C:\Users\jahnavip\Downloads\StudentManagementServicesMain\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\ref\StudentManagementServices.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\appsettings.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.staticwebassets.endpoints.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.exe
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.deps.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.runtimeconfig.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Npgsql.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Database.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Domain.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\Repository.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\bin\Debug\net8.0\StudentServices.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.AssemblyReference.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfoInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.AssemblyInfo.cs
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.csproj.CoreCompileInputs.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\scopedcss\bundle\StudentManagementServices.styles.css
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.StudentManagementServices.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentManagementServices.props
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagementServices.props
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentManagementServices.props
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentM.E0B56B0F.Up2Date
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\refint\StudentManagementServices.dll
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.pdb
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\StudentManagementServices.genruntimeconfig.cache
+C:\Users\jahnavip\Desktop\angular\StudentManagementServices\StudentManagementServices\obj\Debug\net8.0\ref\StudentManagementServices.dll

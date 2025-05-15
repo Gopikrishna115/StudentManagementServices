@@ -1,0 +1,55 @@
+﻿using System.Collections.Generic;
+using System.Linq;
+using StudentManagementSystemAPI.Models;
+
+namespace StudentManagementSystemAPI.Repository
+{
+public class StudentRepository : IStudentRepository
+{
+private readonly List<StudentData>
+	_students;
+
+	public StudentRepository()
+	{
+	_students = new List<StudentData>
+		{
+		new StudentData { Id = 1, Name = "John Doe", Age = 20 },
+		new StudentData { Id = 2, Name = "Jane Smith", Age = 22 }
+		};
+		}
+
+		public IEnumerable<StudentData> GetAllStudents()
+        {
+            return _students;
+        }
+
+        public StudentData GetStudentById(int id)
+        {
+            return _students.FirstOrDefault(s => s.Id == id);
+        }
+
+        public void AddStudent(StudentData student)
+        {
+            _students.Add(student);
+        }
+
+        public void UpdateStudent(int id, StudentData student)
+        {
+            var existingStudent = GetStudentById(id);
+            if (existingStudent != null)
+            {
+                existingStudent.Name = student.Name;
+                existingStudent.Age = student.Age;
+            }
+        }
+
+        public void DeleteStudent(int id)
+        {
+            var student = GetStudentById(id);
+            if (student != null)
+            {
+                _students.Remove(student);
+            }
+        }
+    }
+}
