@@ -1,0 +1,39 @@
+<div class="form-container">
+  <h2>{{ isEditMode ? 'Update Course' : 'Add Course' }}</h2>
+  <form [formGroup]="courseForm" (ngSubmit)="onSubmit()">
+    
+    <div class="form-group">
+      <label for="courseName">Course Name:</label>
+      <input 
+        id="courseName" 
+        type="text" 
+        formControlName="courseName" 
+        class="form-control"
+        
+      />
+      <div class="error-message" *ngIf="courseForm.controls['courseName']?.touched && courseForm.controls['courseName'].invalid">
+        <span *ngIf="courseForm.get('courseName')?.hasError('required')">Course Name is required.</span>
+        <span *ngIf="courseForm.controls['courseName'].hasError('minlength')">Minimum 3 characters required.</span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="teacher">Select Teacher:</label>
+      <select id="teacher" formControlName="teacherID" class="form-control">
+        <option value="" disabled>Select a teacher</option>
+        <option *ngFor="let teacher of teachers" [value]="teacher.teacherID">
+          {{ teacher.name }}
+        </option>
+      </select>
+      <div class="error-message" *ngIf="courseForm.controls['teacherID']?.touched && courseForm.controls['teacherID'].invalid">
+        <span>
+          Teacher selection is required.
+        </span>
+      </div>
+    </div>
+
+    <button type="submit">{{ isEditMode ? 'Update Course' : 'Add Course' }}</button>
+  </form>
+</div>
+
+

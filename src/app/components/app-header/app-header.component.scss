@@ -1,0 +1,75 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #6bec96;
+    padding: 15px 20px;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  
+    .header-title {
+      font-size: 1.5rem;
+    }
+  
+    .user-profile {
+      position: relative;
+      display: flex;
+      align-items: center;
+  
+      .user-name {
+        margin-right: 10px;
+      }
+  
+      .profile-container {
+        position: relative;
+        cursor: pointer;
+  
+        .profile-icon {
+          width: 40px;
+          height: 40px;
+          border-radius: 50%;
+          background: url('../../../assets/OIP.jpg') no-repeat center center;
+          background-size: cover;
+        }
+  
+        .dropdown {
+          position: absolute;
+          top: 50px;
+          right: 0;
+          background: white;
+          color: #343a40;
+          border-radius: 5px;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+          width: 150px;
+          z-index: 100;
+          opacity: 0;
+          visibility: hidden;
+          transition: opacity 1s ease, visibility 1s ease;
+  
+          a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            color: #343a40;
+
+  
+            &:hover {
+              background: #f1f1f1;
+            }
+          }
+        }
+      }
+  
+      // Show dropdown with smooth transition
+      .profile-container:hover .dropdown {
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+  }
+  

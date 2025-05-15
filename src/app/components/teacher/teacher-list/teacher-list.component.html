@@ -1,0 +1,27 @@
+<div class="container">
+    <h2>Teacher List</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Date Created</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let teacher of teachers">
+          <td>{{ teacher.name }}</td>
+          <td>{{ teacher.email }}</td>
+          <td>{{ teacher.createdAt | date }}</td>
+          <td [ngClass]="{'disabled': usertype !== 'Admin'}">
+            <button class="btn btn-warning" (click)="editTeacher(teacher.teacherID)" >Edit</button>
+            <button class="btn btn-danger" (click)="deleteTeacher(teacher.teacherID)">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <button *ngIf="usertype == 'Admin'" class="btn btn-primary" (click)="router.navigate(['/teachers/form'])"> 
+      Add Teacher 
+    </button>
+    

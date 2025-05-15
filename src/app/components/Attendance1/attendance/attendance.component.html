@@ -1,0 +1,48 @@
+<div class="attendance-container">
+  <h2 class="title">Attendance</h2>
+  <div class="form-row">
+    <div class="form-group">
+      <label for="course">Select Course</label>
+      <select id="course" [(ngModel)]="selectedCourse" class="dropdown">
+        <option *ngFor="let course of courses" [value]="course.courseID">{{ course.courseName }}</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="date">Attendance Date</label>
+      <input type="date" id="date" [(ngModel)]="attendanceDate" class="date-picker">
+    </div>
+
+    <button class="attendance-btn" (click)="takeAttendance()">Take Attendance</button>
+  </div>
+  <div class="students-container">
+    <div *ngFor="let student of students" class="student-card">
+      <img src="../../../assets/OIP.jpg" alt="{{ student.name }}" class="student-img" />
+      <h3 class="student-name">{{ student.name }}</h3>
+
+      <div class="status-buttons">
+        <button
+          class="status-btn present"
+          [class.active]="student.status === 'Present'"
+          (click)="markAttendance(student.studentID, 'Present')">
+          P
+        </button>
+        <button
+          class="status-btn absent"
+          [class.active]="student.status === 'Absent'"
+          (click)="markAttendance(student.studentID, 'Absent')">
+          A
+        </button>
+        <button
+          class="status-btn late"
+          [class.active]="student.status === 'Late'"
+          (click)="markAttendance(student.studentID, 'Late')">
+          L
+        </button>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="students.length" class="action-buttons">
+    <button class="save-btn" (click)="saveRecord()">Save Record</button>
+  </div>
+</div>

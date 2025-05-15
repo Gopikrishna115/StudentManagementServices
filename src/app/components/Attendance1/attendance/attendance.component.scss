@@ -1,0 +1,188 @@
+// General Container
+.attendance-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+// Title
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+// Form Row
+.form-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+// Form Group
+.form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .dropdown,
+  .date-picker {
+    padding: 8px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+}
+
+// Attendance Button
+.attendance-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    background: #0056b3;
+  }
+}
+
+// Student Container
+.students-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+// Student Card
+.student-card {
+  background: #fff;
+  padding: 15px;
+  width: 180px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    transform: translateY(-5px);
+  }
+}
+
+// Student Image
+.student-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+// Student Name
+.student-name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+// Status Buttons
+.status-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 10px;
+
+  button {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+
+    &.active {
+      background-color: #198754; // Green for Present
+      color: #fff;
+    }
+
+    &:nth-child(2).active {
+      background-color: #dc3545; // Red for Absent
+    }
+
+    &:nth-child(3).active {
+      background-color: #ffc107; // Yellow for Late
+      color: black;
+    }
+
+    &:hover {
+      transform: scale(1.1);
+      opacity: 0.9;
+    }
+  }
+}
+
+// Save Button
+.action-buttons {
+  margin-top: 20px;
+}
+
+.save-btn {
+  background: #17a2b8;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    background: #138496;
+  }
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+  .form-row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .students-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .student-card {
+    width: 100%;
+    max-width: 300px;
+  }
+}

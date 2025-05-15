@@ -1,0 +1,17 @@
+.main-container {
+  display: flex;
+  margin-top: 60px; /* Adjust to prevent overlap with fixed header */
+}
+
+.content {
+  flex-grow: 1;
+  padding: 20px;
+  margin-left: 260px;
+  transition: margin-left 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .content {
+    margin-left: 210px;
+  }
+}

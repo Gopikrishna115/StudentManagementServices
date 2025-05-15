@@ -1,0 +1,44 @@
+<h2 class="title">Attendance Report</h2>
+<div class="filter-container">
+  <div class="filter-group">
+    <label for="student">Select Student</label>
+    <select id="student" [(ngModel)]="studentId" class="dropdown">
+      <option *ngFor="let student of students" [value]="student.studentID">{{ student.name }}</option>
+    </select>
+  </div>
+
+  <div class="filter-group">
+    <label for="course">Select Course</label>
+    <select id="course" [(ngModel)]="courseId" class="dropdown">
+      <option *ngFor="let course of courses" [value]="course.courseID">{{ course.courseName }}</option>
+    </select>
+  </div>
+
+  <div class="filter-group">
+    <label for="date">Date</label>
+    <input type="date" id="date" [(ngModel)]="attendanceDate" class="date-picker">
+  </div>
+
+  <button class="filter-button" (click)="filterAttendance()">Filter</button>
+  <button class="filter-button" (click)="Clearfilter()">Clear</button>
+</div>
+<div class="table-container">
+  <table class="attendance-table">
+    <thead>
+      <tr>
+        <th>Student Name</th>
+        <th>Course Name</th>
+        <th>Date</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let record of attendanceData">
+        <td>{{ GetStudentName(record.studentID) }}</td>
+        <td>{{ GetCourseName(record.courseID) }}</td>
+        <td>{{ record.attendanceDate | date: 'yyyy-MM-dd' }}</td>
+        <td class="status"><b>{{ record.status }}</b></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

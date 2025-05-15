@@ -1,0 +1,14 @@
+<header class="header">
+    <h1 class="header-title">Student Management</h1>
+    <div class="user-profile">
+      <span class="user-name">{{user.email ||"user"}}</span>
+      <div class="profile-container" (mouseenter)="showDropdown()" (click)="toggleDropdown()">
+        <div class="profile-icon"></div>
+        <div class="dropdown" *ngIf="dropdownVisible">
+          <a *ngIf="userType=='Admin'" href="/register">Register</a>
+          <a (click)="logout()">Logout</a>
+        </div>
+      </div>
+    </div>
+  </header>
+  

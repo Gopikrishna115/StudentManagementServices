@@ -1,0 +1,16 @@
+
+<aside *ngIf="usertype" class="sidebar" [class.hidden]="isSidebarHidden">
+
+  <ul>
+    <li><a routerLink="/dashboard" routerLinkActive="active">Home</a></li>
+    <li><a routerLink="/students" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Students</a></li>
+    <li *ngIf="usertype =='Admin'"><a routerLink="/students/add" routerLinkActive="active">Add Student</a></li>
+    <li><a routerLink="/teachers" routerLinkActive="active"  [routerLinkActiveOptions]="{ exact: true }">Teachers</a></li>
+    <li *ngIf="usertype =='Admin'"><a routerLink="/teachers/form" routerLinkActive="active">Add Teacher</a></li>
+    <li><a routerLink="/courses" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Courses</a></li>
+    <li *ngIf="usertype =='Admin'"><a routerLink="/courses/form" routerLinkActive="active">Add Course</a></li>
+    <li *ngIf="usertype!='Student'"><a routerLink="/attendance" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Attendance</a></li>
+    <li><a routerLink="/attendance/report" routerLinkActive="active">Attendance Report</a></li>
+  </ul>
+</aside>
+<button *ngIf="usertype" class="menu-toggle" (click)="toggleSidebar()">☰</button>

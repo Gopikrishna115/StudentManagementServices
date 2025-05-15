@@ -1,0 +1,44 @@
+<div class="student-container">
+    <h2>Student List</h2>
+    
+    <div class="table-container">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>DOB</th>
+            <th>Courses</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let student of students; let i = index">
+            <td>{{ student.name }}</td>
+            <td>{{ student.email }}</td>
+            <td>{{ student.createdAt | date: 'yyyy-MM-dd' }}</td>
+            <td [ngClass]="{'disabled': usertype === 'Student'}">
+              <ul>
+                <li *ngFor="let courseid of student.courses">
+                  {{ getCourseName(courseid) }} <button (click)="removeCourse(student, courseid)">❌</button>
+                </li>
+              </ul>
+              <select (change)="assignCourse(student, $event)">
+                <option value="">Assign Course</option>
+                <option *ngFor="let course of Courses" [value]="course.courseID">{{ course.courseName }}</option>
+              </select>
+            </td>
+
+            <td [ngClass]="{'disabled': usertype !== 'Admin'}">
+              <button class="btn danger" (click)="deleteStudent(student.studentID)">Delete</button>
+
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  
+    <div *ngIf="usertype =='Admin'" class="btn-container">
+      <a href="/students/add" class="btn primary">Add Student</a>
+    </div>
+  </div>
+  

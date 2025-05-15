@@ -1,0 +1,45 @@
+<div class="dashboard">
+    <div class="stats">
+      <div class="stat-card">
+        <h3>{{ studentcount }}</h3>
+        <p>Students</p>
+      </div>
+      <div class="stat-card">
+        <h3>{{ teachercount }}</h3>
+        <p>Teachers</p>
+      </div>
+      <div class="stat-card">
+        <h3>{{ coursecount }}</h3>
+        <p>Courses</p>
+      </div>
+      <div class="stat-card">
+        <h3>{{ todaystudentcount }}</h3>
+        <p>Students Present Today</p>
+      </div>
+    </div>
+  
+    <div class="attendance">
+      <h2>Today Attendance</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Course</th>
+            <th>Attendance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let student of attendanceList">
+            <td>{{ GetStudentName(student.studentID) }}</td>
+            <td>{{ GetCourseName(student.courseID) }}</td>
+            <td>{{ student.status }}</td>
+          </tr>
+        </tbody>
+      </table>
+      <button class="view-all-btn" (click)="ViewAll()">View All</button>
+
+    </div>
+  
+    
+  </div>
+  

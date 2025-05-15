@@ -1,0 +1,26 @@
+<div class="course-container">
+    <h2>Course List</h2>
+    <table>
+      <thead>
+        <tr>
+          <th> Course Name</th>
+          <th>Teacher</th>
+          <th>Created At</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let course of courses">
+          <td>{{ course.courseName }}</td>
+          <td>{{ getTeacherName(course.teacherID) }}</td>
+          <td>{{ course.createdAt | date: 'yyyy-MM-dd' }}</td>
+          <td [ngClass]="{'disabled': usertype !== 'Admin'}">
+            <button class="edit-btn" (click)="editCourse(course.courseID)">Edit</button>
+            <button class="delete-btn" (click)="deleteCourse(course.courseID)">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <button *ngIf = "usertype == 'Admin'" class="add-btn" (click)="addCourse()"> Add New Course</button>
+  </div>
+  

@@ -1,0 +1,23 @@
+<div class="container">
+    <h2>{{ isEdit ? 'Edit Teacher' : 'Add Teacher' }}</h2>
+    <form [formGroup]="teacherForm" (ngSubmit)="onSubmit()">
+      <div class="form-group">
+        <label>Name:</label>
+        <input type="text" formControlName="name" class="form-control" />
+        <div class="text-danger" *ngIf="teacherForm.get('name')?.invalid && teacherForm.get('name')?.touched">
+          Name is required (min 3 characters)
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label>Email:</label>
+        <input type="email" formControlName="email" class="form-control" />
+        <div class="text-danger" *ngIf="teacherForm.get('email')?.invalid && teacherForm.get('email')?.touched">
+          Enter a valid email
+        </div>
+      </div>
+  
+      <button type="submit" class="btn btn-primary" [disabled]="teacherForm.invalid">{{ isEdit ? 'Update' : 'Add' }}</button>
+    </form>
+  </div>
+  
